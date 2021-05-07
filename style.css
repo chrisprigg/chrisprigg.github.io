@@ -1,0 +1,88 @@
+h2 {
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+.everything {
+    width: 1200px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.name {
+    margin-top: -10px;
+    font-style: italic;
+}
+
+.cover {
+    width: 480px;
+}
+
+.split-container {
+    display: grid;
+    grid-template-columns: 480px 720px;
+    column-gap: 20px;
+}
+
+.images {
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 600px 600px;
+    column-gap: 20px;
+}
+
+p {
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.right-image {
+    padding-top: 125px;
+}
+
+.right-image2 {
+    padding-top: 70px;
+}
+
+.image1 {
+    width: 250px;
+    margin-left: 175px;
+}
+
+.image2 {
+    width: 400px;
+    margin-left: 100px;
+}
+
+.image1-d, .image2-d {
+    width: 500px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.links {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.link-title {
+    font-style: italic;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    font-family: 'Roboto Mono', sans-serif;
+    font-style: normal;
+    color: #FE5000;
+    font-size: 18px;
+    
+}
+
+.actual-links {
+    padding-top: 1rem;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
